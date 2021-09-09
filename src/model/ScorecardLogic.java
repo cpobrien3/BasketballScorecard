@@ -2,7 +2,7 @@ package model;
 import java.text.DecimalFormat;
 
 /**
- * @author Christian - cpobrien3
+ * @author Christian O'Brien - cpobrien3
  * CIS175 - Fall 2021
  * Sep 7, 2021
  */

@@ -5,7 +5,7 @@ import org.junit.runners.Suite;
 import org.junit.runners.Suite.SuiteClasses;
 
 /**
- * @author Christian - cpobrien3
+ * @author Christian O'Brien - cpobrien3
  * CIS175 - Fall 2021
  * Sep 7, 2021
  */
